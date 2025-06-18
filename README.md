@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**Jam0xT/Jam0xT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎈 Full stack multiplayer web game development enthusiast.
 
-Here are some ideas to get you started:
+<h2>
+  Jam0xT
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jam0xt&theme=tokyonight&show_icons=true"/>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ~~!!FANCY AND USELESS README!!~~
+- 🔷 I like IO games, play and dev.
+- 🐛 I play Geometry Dash and create levels for fun. They can be found on [My Bilibili Channel](https://space.bilibili.com/1601942971).
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam0xT&layout=donut&theme=tokyonight"/>
+
+Currently working on IO game `ReFloria`, which is a completely new version of [floria](https://github.com/jam0xt/floria), with my team members.
+
+I have some experience with 
+
+![JavaScript](https://img.shields.io/badge/javascript-040017?style=for-the-badge&logo=javascript&logoColor=e173f0)
+![TypeScript](https://img.shields.io/badge/typescript-040017?style=for-the-badge&logo=typescript&logoColor=e173f0)
+![VueJS](https://img.shields.io/badge/vuejs-040017?style=for-the-badge&logo=vue.js&logoColor=e173f0)
+![CSS](https://img.shields.io/badge/css-040017?style=for-the-badge&logo=css&logoColor=e173f0)
+![HTML](https://img.shields.io/badge/html-040017?style=for-the-badge&logo=htmx&logoColor=e173f0)
+
+Looking forward to trying new stuff...
+
+| Item | Information |
+| ---- | ---- |
+| E-mail | netheritejam@gmail.com |
+| Minecraft | JE:`jam_uwu` |
+| Discord | [JamIsDed](https://discord.com/users/870536362900746250) |
+| Geometry Dash | `JamIsDed` |
+| Tencent QQ | 3993264474 |
