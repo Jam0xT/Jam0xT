@@ -11,7 +11,7 @@
 - 🔷 I like IO games, play and dev.
 - 🐛 I play Geometry Dash and create levels for fun. They can be found on [My Bilibili Channel](https://space.bilibili.com/1601942971).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam0xT&layout=donut&theme=tokyonight"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam0xT&layout=donut-vertical&theme=tokyonight"/>
 
 Currently working on IO game `ReFloria`, which is a completely new version of [floria](https://github.com/jam0xt/floria), with my team members.
 
@@ -32,3 +32,5 @@ Looking forward to trying new stuff...
 | Discord | [JamIsDed](https://discord.com/users/870536362900746250) |
 | Geometry Dash | `JamIsDed` |
 | Tencent QQ | 3993264474 |
+
+[PFP Origin](https://www.pixiv.net/en/artworks/96286600)
