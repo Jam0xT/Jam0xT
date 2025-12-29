@@ -13,6 +13,4 @@ Looking forward to learning new stuff...
 | E-mail | netheritejam@gmail.com |
 | Discord | [JamIsDed](https://discord.com/users/870536362900746250) |
 
-[PFP Origin](https://www.pixiv.net/en/artworks/96286600)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam0xT&layout=donut-vertical&theme=tokyonight"/>
